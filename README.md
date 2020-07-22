@@ -8,7 +8,7 @@ This repository contains independent and academic python data projects completed
 
 + ###   <ins>Data Analysis & Visualization<ins>
 
-[Jeffrey Epstein Political Contributions](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/epstein%20political%20contributions%20.ipynb): Simple analysis of political contributions made by financier Jeffrey Epstein from 1989 - 2018.
+[Jeffrey Epstein Political Contributions](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/epstein%20contributions%20.ipynb): Simple analysis of political contributions made by financier Jeffrey Epstein from 1989 - 2018.
 
 *Tools used*: pandas, matplotlib
 
