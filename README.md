@@ -10,6 +10,8 @@ This repository contains independent and academic python data projects completed
 
 [Jeffrey Epstein Political Contributions](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/epstein%20contributions%20.ipynb): Simple analysis of political contributions made by financier Jeffrey Epstein from 1989 - 2018.
 
+[Telecom Congressional Contributions](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/telecom%20contributions%20(2).ipynb): Simple analysis of monetary contributions to congress by individuals and groups affiliated with Telecommunications companies Comcast, Verizon, and AT&T. I also probe whether contributions impacted vote behavior concerning Net Neutrality.
+
 *Tools used*: pandas, matplotlib
 
 + ###   <ins>Machine Learning<ins>
