@@ -1,7 +1,7 @@
 # Data Science Portfolio
 ----
 
-This repository contains independent and academic python data projects completed by me. I attempt to post a completed project monthly.
+This repository contains independent and academic python data projects completed by me. I attempt to post at least one completed project monthly.
 
 ## Contents
 ----
