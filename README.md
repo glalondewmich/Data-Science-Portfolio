@@ -12,6 +12,8 @@ This repository contains independent and academic python data projects completed
 
 [Telecom Congressional Contributions](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/telecom%20contributions%20(2).ipynb): Simple analysis of monetary contributions to congress by individuals and groups affiliated with Telecommunications companies Comcast, Verizon, and AT&T. I also probe whether contributions impacted vote behavior concerning Net Neutrality.
 
+[Michigan COVID-19 Hospitalization and Testing](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/visualizing%20covid%20data%20in%20michigan.ipynb): Simple and quick visualization of COVID-19 hospitalization and testing data from the State of Michigan. The data is current as of 7/22/2020. 
+
 *Tools used*: pandas, matplotlib
 
 + ###   <ins>Machine Learning<ins>
