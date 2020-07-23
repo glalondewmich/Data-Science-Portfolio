@@ -14,7 +14,7 @@ This repository contains independent and academic python data projects completed
 
 [Michigan COVID-19 Hospitalization and Testing](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/visualizing%20covid%20data%20in%20michigan.ipynb): Simple and quick visualization of COVID-19 hospitalization and testing data from the State of Michigan. The data is current as of 7/22/2020. 
 
-*Tools used*: pandas, matplotlib
+*Tools used*: pandas, matplotlib, sklearn, seaborn
 
 + ###   <ins>Machine Learning<ins>
 
