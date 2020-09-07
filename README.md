@@ -24,4 +24,10 @@ This repository contains independent and academic python data projects completed
 
 *Tools used*: pandas, numpy, nltk, sklearn, seaborn, matplotlib
 
++ ###   <ins>Data Cleaning<ins>
+  
+[Dataset Cleaning: Company Slogans](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/Data_Cleaning_Proj.ipynb): Simple dataset cleaning for further usage.
+
+*Tools used*: pandas, nltk
+
 If you would like to contact me regarding work opportunities or my portfolio, my email is [greyson.r.lalonde@wmich.edu](mailto:greyson.r.lalonde@wmich.edu)
