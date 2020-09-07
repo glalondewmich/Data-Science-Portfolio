@@ -26,7 +26,7 @@ This repository contains independent and academic python data projects completed
 
 + ###   <ins>Data Cleaning<ins>
   
-[Dataset Cleaning: Company Slogans](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/Data_Cleaning_Proj.ipynb): Simple dataset cleaning for further usage.
+[Company Slogans](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/Data_Cleaning_Proj.ipynb): Simple dataset cleaning for further usage.
 
 *Tools used*: pandas, nltk
 
