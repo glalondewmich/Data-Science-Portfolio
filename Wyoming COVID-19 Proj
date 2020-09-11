@@ -1,5 +1,5 @@
 ---
-####"Wyoming COVID-19 Cases"
+## Wyoming COVID-19 Cases
 ---
 
 ```{r setup, include=FALSE}
