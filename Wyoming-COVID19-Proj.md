@@ -1,6 +1,5 @@
 ---
-title: "Wyoming COVID-19 Cases"
-output: html_document
+Wyoming COVID-19 Cases
 ---
 
 ```{r setup, include=FALSE}
