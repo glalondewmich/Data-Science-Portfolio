@@ -14,6 +14,8 @@ This repository contains independent and academic Python & R data projects compl
 
 [Michigan COVID-19 Hospitalization and Testing](https://github.com/glalondewmich/Data-Science-Portfolio/blob/master/visualizing%20covid%20data%20in%20michigan.ipynb):  Visualization of COVID-19 hospitalization and testing data from the State of Michigan. The data is current as of 7/22/2020. 
 
+[State of Wyoming COVID-19 Cases](https://github.com/glalondewmich/covid-proj-/blob/master/Wyoming-COVID-19-Proj.md): **ongoing R project** Statistical analysis & visualization of COVID-19 cases in Wyoming. 
+
 *Tools used*: pandas, matplotlib, sklearn, seaborn
 
 + ###   <ins>Machine Learning<ins>
