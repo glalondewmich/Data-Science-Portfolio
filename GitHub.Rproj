@@ -1,0 +1,28 @@
+install.packages("dplyr")
+install.packages("tibble")
+install.packages("readr")
+install.packages("tidyverse")
+install.packages("ggplot2")
+
+library(readr)
+library(tibble)
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+library(lubridate)
+
+wyo = read_csv("C:/Users/Student/Downloads/wyoming-history.csv")
+dim(wyo)
+vec_col <- colnames(wyo)
+head(wyo)
+glimpse(wyo)
+nrow(wyo)
+ncol(wyo)
+
+wyo_clean = wyo[, colSums(is.na(wyo)) != nrow(wyo)]
+
+
+ggplot(data = wyo_clean,
+       aes(x = date, y = positive)) +
+  geom_line(col="blue", lwd=1.5, arrow=arrow())
+
