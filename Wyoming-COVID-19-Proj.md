@@ -1,5 +1,6 @@
 ---
-## Wyoming COVID-19 Cases
+title: "Wyoming COVID-19 Cases"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -18,7 +19,6 @@ library(tidyverse)
 library(ggplot2)
 library(lubridate)
 library(rmarkdown)
-library(extrafont)
 ```
 
 ## Code
@@ -50,7 +50,6 @@ head(wyo_clean)
 
 ## Plots
 ```{r message=FALSE}
-font_import()
 
 
 plot_2 <- ggplot(data = wyo_clean, aes(x = date)) +
@@ -65,6 +64,5 @@ plot_2 <- ggplot(data = wyo_clean, aes(x = date)) +
   theme(axis.title.y = element_text(size=15)) +
   scale_y_continuous(breaks=seq(0,80000,4000))
 plot_2
+ggsave("myplot.png", plot = plot_2)
 ```
-
-
